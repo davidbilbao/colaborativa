@@ -1,0 +1,155 @@
+{
+  "project_info": {
+    "project_number": "886630585602",
+    "project_id": "white-byway-312422",
+    "storage_bucket": "white-byway-312422.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886630585602:android:0c1fcbeaa8d0bba330de1b",
+        "android_client_info": {
+          "package_name": "com.example.auntenticacion"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886630585602-esag8m83ehg49e3ntj4h0jerns4dg814.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZtYITbso_TNcX1IlDv-dnT_M1ffYzsSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886630585602-esag8m83ehg49e3ntj4h0jerns4dg814.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886630585602:android:8ce50614e5d77dc030de1b",
+        "android_client_info": {
+          "package_name": "com.example.delfinlogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886630585602-esag8m83ehg49e3ntj4h0jerns4dg814.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZtYITbso_TNcX1IlDv-dnT_M1ffYzsSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886630585602-esag8m83ehg49e3ntj4h0jerns4dg814.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886630585602:android:7b06911a6f57f2bb30de1b",
+        "android_client_info": {
+          "package_name": "com.example.finaldelfin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886630585602-esag8m83ehg49e3ntj4h0jerns4dg814.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZtYITbso_TNcX1IlDv-dnT_M1ffYzsSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886630585602-esag8m83ehg49e3ntj4h0jerns4dg814.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886630585602:android:0ce6ac073bb9428530de1b",
+        "android_client_info": {
+          "package_name": "com.example.miapp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886630585602-esag8m83ehg49e3ntj4h0jerns4dg814.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZtYITbso_TNcX1IlDv-dnT_M1ffYzsSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886630585602-esag8m83ehg49e3ntj4h0jerns4dg814.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:886630585602:android:5da3f321f26efc1030de1b",
+        "android_client_info": {
+          "package_name": "com.example.proyectodedelfin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "886630585602-esag8m83ehg49e3ntj4h0jerns4dg814.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZtYITbso_TNcX1IlDv-dnT_M1ffYzsSg"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "886630585602-esag8m83ehg49e3ntj4h0jerns4dg814.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
